@@ -1,18 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  border: none;
-  outline: none;
-  text-decoration: none;
-}
-
-body {
-  width:1440px;
-  margin: 0 auto;
-  line-height: normal;
-}
-
 :root {
   /* fonts */
   --h6: Montserrat;
